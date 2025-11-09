@@ -6,6 +6,7 @@ public class HelloWorld {
     }
 }
 
+
 import java.util.Scanner;
 class AreaOfCircle 
 {
@@ -20,3 +21,5 @@ class AreaOfCircle
          System.out.println("Area of Circle is: " + area);      
    }
 }
+=======
+###need a good code in java to execute *******
